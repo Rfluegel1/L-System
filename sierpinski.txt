@@ -1,0 +1,6 @@
+7
+60
+XF
+F
+YF+XF+Y
+XF-YF-X
