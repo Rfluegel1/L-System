@@ -3,3 +3,5 @@ L-system recursive demonstration. Make sure to use provided txt file. Feel free 
 
 # What I Learned
 * Recursive fundamentals
+* Recognizing user input
+* Use of turtle drawing object
