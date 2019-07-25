@@ -5,3 +5,6 @@ L-system recursive demonstration. Make sure to use provided txt file. Feel free 
 * Recursive fundamentals
 * Recognizing user input
 * Use of turtle drawing object
+
+# Disclaimer
+This project was made using Processing and must be used within the IDE.
